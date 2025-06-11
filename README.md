@@ -76,3 +76,59 @@ git merge main
 git push origin profe
 git checkout ariel22 #Terminamos por hoy
 ```
+
+## Resumen
+
+Imagina poder desarrollar universos visuales completos y consistentes sin necesidad de saber dibujar, utilizando únicamente tus palabras. ChatGPT te permite generar imágenes realistas o estilizadas, crear personajes detallados y gestionar proyectos visuales usando únicamente prompts bien estructurados y específicos.<br>
+
+> ¿Cómo crear imágenes precisas con ChatGPT?
+
+ChatGPT facilita la generación directa de imágenes con capacidades similares a Dalí. Al escribir un prompt claro y detallado en español, puedes obtener resultados precisos con características visuales específicas. Por ejemplo:<br>
+
+Descripción clara del sujeto: "Un lobo blanco de ojos dorados sobre una colina nevada".<br>
+Detalles del entorno: "Aurora boreal en el cielo y templo en ruinas al fondo".<br>
+Estilo visual deseado: óleo digital con iluminación suave.
+Formato de la imagen: horizontal en ratio 16:9.<br>
+Estas imágenes generadas en ChatGPT pueden servir como punto de partida en otras herramientas visuales especializadas como Runway, Pixverse, Leonardo o Halo AI.<br>
+
+> ¿Qué ventajas tiene un proyecto persistente en ChatGPT?
+
+Crear un proyecto persistente en ChatGPT permite desarrollar un concepto visual unificado y cohesivo. Este procedimiento posibilita:<br>
+
+Establecer estilos visuales coherentes para proyectos narrativos o visuales.<br>
+Dar instrucciones permanentes sobre características como época, estética o contenido visual. Por ejemplo, especificar un universo medieval con estética gótica.<br>
+Crear tablas de estilos, paletas de colores, ideas de ambientación y referencias artísticas o cinematográficas.<br>
+Un proyecto persistente garantiza que cada prompt futuro automáticamente siga el estilo definido inicialmente.<br>
+
+> ¿Cómo desarrollar personajes coherentes para animaciones o vídeos?
+
+La creación de personajes consistentes puede ser compleja. Sin embargo, ChatGPT facilita este trabajo al proporcionar descripciones precisas y replicables. Elementos clave para incluir en tu prompt son:<br>
+
+* Nombre y edad.
+* Raza y características visibles, como color de cabello u ojos.
+* Detalles específicos, como cicatrices o elementos distintivos.
+* Descripción detallada de ropa y equipamiento.
+* Rasgos de personalidad y comportamiento.
+
+Ejemplo práctico:
+
+* Nombre: Kael.
+* Edad: 22 años.
+* Raza: humano con sangre de dragón.
+* Apariencia: cabello blanco largo; ojos rojo fuego; cicatriz en la ceja izquierda.
+* Vestimenta: armadura negra con runas azules brillantes.
+* Personalidad: silencioso, protector, impulsivo en combate.
+
+Estos personajes generados en ChatGPT pueden posteriormente visualizarse en Dalí, Leonardo o Mid Journey, y usarse como referencias en diversas plataformas visuales.<br>
+
+> ¿Qué posibilidades ofrecen los GPT especializados en prompts visuales?
+
+Los GPT personalizados son herramientas que facilitan la generación de prompts adaptados específicamente para plataformas visuales, tales como:<br>
+
+* GPT para prompts cinematográficos adaptados a Runway.
+* GPT especializados en narrativas estilo Studio Ghibli para Pixverse.
+* GPT enfocados en ideas para arte conceptual.
+
+Estos GPT especializados pueden almacenarse, editarse y utilizarse directamente desde tu espacio de trabajo personal en ChatGPT.<br>
+
+Te invito a experimentar creando tu propio universo visual y personajes completos utilizando prompts creativos.
