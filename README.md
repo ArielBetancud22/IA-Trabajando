@@ -89,7 +89,7 @@ Descripción clara del sujeto: "Un lobo blanco de ojos dorados sobre una colina 
 Detalles del entorno: "Aurora boreal en el cielo y templo en ruinas al fondo".<br>
 Estilo visual deseado: óleo digital con iluminación suave.
 Formato de la imagen: horizontal en ratio 16:9.<br>
-Estas imágenes generadas en ChatGPT pueden servir como punto de partida en otras herramientas visuales especializadas como Runway, Pixverse, Leonardo o Halo AI.<br>
+Estas imágenes generadas en ChatGPT pueden servir como punto de partida en otras herramientas visuales especializadas como Runway,Hailu AI,Midjourney, Pixverse, Leonardo AI .<br>
 
 > ¿Qué ventajas tiene un proyecto persistente en ChatGPT?
 
@@ -132,3 +132,31 @@ Los GPT personalizados son herramientas que facilitan la generación de prompts 
 Estos GPT especializados pueden almacenarse, editarse y utilizarse directamente desde tu espacio de trabajo personal en ChatGPT.<br>
 
 Te invito a experimentar creando tu propio universo visual y personajes completos utilizando prompts creativos.
+
+### Práctica
+
+Lo primero que vamos a hacer es generar imagenes en ChatGPT, en ChatGPT tenemos capacidades de imagen como Dali, te permite crear imagenes directamente. Ahora creamos un Prompt en español como:
+
+```sh
+    Genera una imagen de un lobo blanco de ojos dorados parado sobre una colina nevada, con la aurora boreal en el cielo y un templo en ruinas detrás. Iluminación suave, estilo óleo digital, formato horizontal 16:9
+```
+
+En DeepSeek generé otro prompt para otra imagen:
+
+```sh
+    Quiero una imagen de programación, un profesor frente a su ordenador, de fondo un sistema avanzado computacional de ciberseguridad, con un estilo futurista, bien iluminado y prolijo, en las pantallas hay diferentes códigos de diferentes lenguajes de programación
+
+    Pregunta DeepSeek: 
+    ¿Te gustaría ajustar algún detalle? Por ejemplo, ¿prefieres que el profesor sea más joven, o que haya algún elemento específico en el código?
+
+    Respondo:
+    si, el profesor de pelo blanco, largo y atado, con barba bien prolija, en el código que hayan diferentes ejecuciones
+
+    Me responde:
+    Prompt para IA (DALL·E/MidJourney):
+    "Wise old programming professor with long white tied hair and neat beard, wearing a high-tech shirt, teaching in a futuristic cybersecurity lab. Multiple screens show Python code executing a neural network, a Linux terminal blocking cyber attacks, and JavaScript animations. Holograms of code float in the air, neon blue/green lighting, ultra-detailed, 8K, cyberpunk academia style, digital art."
+```
+
+Lo utilice en Leonardo AI y generó una de las siguientes imagenes:
+
+![IA-Trabajando](https://github.com/ArielBetancud22/IA-Trabajando/issues/4#issuecomment-2963812591)
