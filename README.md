@@ -160,3 +160,18 @@ En DeepSeek generé otro prompt para otra imagen:
 Lo utilice en Leonardo AI y generó una de las siguientes imagenes:
 
 ![IA-Trabajando](https://github.com/ArielBetancud22/IA-Trabajando/issues/4#issuecomment-2963812591)
+
+> Hay muchas más información en enlace de PDF
+
+[prompts-chatgpt](https://static.platzi.com/media/public/uploads/prompts_chatgpt_900aea47-2e04-43d5-bb52-e4340029b388.pdf)
+[instrucción-como-hacer-un-buen-prompt](https://static.platzi.com/media/public/uploads/instructivo_como-hacer-un-buen-prompt_7929ce7e-3bfb-495e-b780-58bbcc443c92.pdf)
+[instructivo-formatos-de-video](https://static.platzi.com/media/public/uploads/instructivo_formatos-de-video_3985677a-9020-458c-8d22-1354a0270f21.pdf)
+
+### Comandos para terminar
+
+```sh
+git tag -a v-01-02
+git push --tag origin ariel22
+```
+
+Después de esto solo a mergear<br>
