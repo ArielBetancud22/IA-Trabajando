@@ -175,3 +175,106 @@ git push --tag origin ariel22
 ```
 
 Después de esto solo a mergear<br>
+
+# Clase 3
+
+## Resumen
+
+Imagina crear emocionantes escenas cinematográficas usando inteligencia artificial. Con iLuo AI es posible generar videos espectaculares a partir de simples imágenes y texto. Esta innovadora plataforma permite controlar meticulosamente la cámara, emociones faciales, efectos especiales y más, adaptándose a tus necesidades creativas.<br>
+
+## ¿Qué es iLuo AI y por qué destaca?
+
+iLuo AI es una plataforma china que utiliza inteligencia artificial para generar videos. Su popularidad crece debido al realismo cinematográfico, avanzada gestión de movimientos de cámara y la habilidad para crear emociones convincentes en personajes virtuales. Se usa especialmente en:<br>
+
+* Cortometrajes narrativos.
+* Generación de clips emocionales de personajes.
+* Animación de ilustraciones o fotos antiguas.
+* Producción de efectos visuales, como explosiones o plantas creciendo.
+<sub>
+Accesible desde iLuoAI.video, facilita trabajos desde texto o imágenes hacia video, permitiéndote transformar ideas en escenas emocionantes y visualmente cautivantes.</sub>
+
+> ¿Cómo empezar con iLuo AI?
+
+## ¿Cómo crear una imagen base eficaz?
+
+Tu proyecto comienza seleccionando AI Create, y luego Create Image en el menú de iLuo. Un buen prompt describe claramente la escena inicial. Por ejemplo:<br>
+
+Un P.O.V. de alta velocidad corre a través de una ciudad futurística de Warthorne, viajando a través de torres y bosques colapsantes, dentro una suite de cajas colosal con magma naranja, armadura negra de core, iluminación cinemática y explosiones de caos.<br>
+
+Es importante elegir una imagen que represente fielmente la visión creativa original.<br>
+
+## ¿Qué es el Director Mode para crear videos?
+
+El siguiente paso usa el modelo Director para videos. Aquí seleccionas movimientos de cámara esenciales para tu narrativa:<br>
+
+* Tracking Shot: sigue personas u objetos en movimiento.
+* Shake: simula vibraciones o tensión.
+* Pedestal Up: movimiento vertical ascendente desde la ubicación fija.
+
+Mantener el Refining desactivado brinda control total del resultado.<br>
+
+## ¿Cómo controlar personajes y emociones?
+
+Sube una imagen del personaje al modo Image to Video y escribe un prompt específico según la emoción deseada. Por ejemplo, para expresar terror:<br>
+
+Make this character look terrified, eyes wide open, mouth trembling, subtle head movement.<br>
+
+Para emociones más tranquilas o suaves, utiliza:
+
+<sub>Make him look nostalgic, blinking slowly, faint smile, soft lighting.</sub>
+
+Puedes ajustar la refinación para variar la precisión del resultado.<br>
+
+## ¿Qué movimientos de cámara puedes utilizar?
+
+Cada movimiento tiene efectos específicos:<br>
+
+- Static shot: ideal para emociones intensas sin distracciones.
+- Zoom: acerca la atención sin desplazar físicamente la cámara.
+- Push (Dolly): movimiento inmersivo hacia adelante o atrás.
+- Panning: movimiento horizontal de izquierda a derecha.
+- Tilt: movimiento vertical arriba o abajo.
+- Crane: revelación desde arriba, vertical desplazado del eje.
+- Tracking: seguimiento activo que ayuda en las persecuciones o acción.
+- Shake: añade sensación de tensión o acción.
+
+Al separar los movimientos con comas y espacios, se ejecutan secuencialmente; si no, suceden simultáneamente.<br>
+
+## ¿Cómo mantener coherentes referencias de personaje?
+
+Para mantener consistencia visual usa el modelo S2V-D01 en la sección de subject reference. Sube una imagen del personaje y especifica detalles concretos en el prompt, como:<br>
+
+<sub>Young Asian man with spiky black hair, cybernetic eye implant, wearing a long black trench coat.</sub>
+
+Esta imagen puede reutilizarse múltiple veces.<br>
+
+## ¿Cómo integrar efectos visuales creativos?
+
+Usa comandos específicos. Algunos ejemplos prácticos:<br>
+
+* Explosiones:
+
+<sub>A futuristic street erupts in flames, debris flying everywhere, shockwave blowing out windows.</sub>
+
+* Insertar texto en la escena:
+
+<sub>Add the phrase "K2 Rising" in glowing red letters in the center of the screen.</sub>
+
+* Crecimiento acelerado de plantas:
+
+<sub>Lush tropical plants grow out of a coach in time lapse.</sub>
+
+## ¿De qué manera extender la duración de tus videos?
+
+Para crear videos más largos, exporta el último frame del video finalizado en software como CapCut o Premiere. Luego usa este frame como base en iLuo AI, creando así extensiones naturales y visuales continuas.<br>
+
+### Enlaces con más información
+
+[prompts-hailuo](https://static.platzi.com/media/public/uploads/prompts_hailuo_8d987aa0-e905-4889-becd-28f8bd0ea5a7.pdf)<br>
+[instructivo-movimientos-camara](https://static.platzi.com/media/public/uploads/instructivo_movimientos-de-camara_664eac5f-a7cb-4382-aac2-3b2ea10c99fe.pdf)<br>
+
+### Lecturas recomendadas
+
+[chatGPT-Hailuo Minimax Prompt Creator](https://chatgpt.com/g/g-l1gfQRwo5-hailuo-minimax-prompt-creator)<br>
+[Media-Google Drive](https://drive.google.com/drive/folders/1U9r-wTTYMFJc9tAeen6NS5hpo-lPQKTy?usp=sharing)<br>
+
