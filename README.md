@@ -208,6 +208,8 @@ Es importante elegir una imagen que represente fielmente la visión creativa ori
 
 Estas imagenes las puedes crear en Sora, desde ChatGPT en la solapa izquierda verás a Sora, podes crear un prompt que defina la imagen que tienes en mente, y Sora la creará para ti. Mayormente genera 4 modelos para que elijas la que mejor se adapte a tus ideas.<br>
 
+Hailuo es una IA paga, tiene creaditos que puedes utilizar para tus primeras ideas, después de que se termine la prueba deberás acceder a la compra del servicio.<br>
+
 ## ¿Qué es el Director Mode para crear videos?
 
 El siguiente paso usa el modelo Director para videos. Aquí seleccionas movimientos de cámara esenciales para tu narrativa:<br>
@@ -224,7 +226,7 @@ Sube una imagen del personaje al modo Image to Video y escribe un prompt especí
 
 Make this character look terrified, eyes wide open, mouth trembling, subtle head movement.<br>
 
-Para emociones más tranquilas o suaves, utiliza:
+Para emociones más tranquilas o suaves, utiliza:<br>
 
 <sub>Make him look nostalgic, blinking slowly, faint smile, soft lighting.</sub>
 
