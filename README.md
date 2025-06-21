@@ -180,28 +180,35 @@ Después de esto solo a mergear<br>
 
 ## Resumen
 
-Imagina crear emocionantes escenas cinematográficas usando inteligencia artificial. Con iLuo AI es posible generar videos espectaculares a partir de simples imágenes y texto. Esta innovadora plataforma permite controlar meticulosamente la cámara, emociones faciales, efectos especiales y más, adaptándose a tus necesidades creativas.<br>
+Imagina crear emocionantes escenas cinematográficas usando inteligencia artificial. Con Hailuo AI es posible generar videos espectaculares a partir de simples imágenes y texto. Esta innovadora plataforma permite controlar meticulosamente la cámara, emociones faciales, efectos especiales y más, adaptándose a tus necesidades creativas.<br>
 
 ## ¿Qué es iLuo AI y por qué destaca?
 
-iLuo AI es una plataforma china que utiliza inteligencia artificial para generar videos. Su popularidad crece debido al realismo cinematográfico, avanzada gestión de movimientos de cámara y la habilidad para crear emociones convincentes en personajes virtuales. Se usa especialmente en:<br>
+Hailuo AI es una plataforma china que utiliza inteligencia artificial para generar videos. Su popularidad crece debido al realismo cinematográfico, avanzada gestión de movimientos de cámara y la habilidad para crear emociones convincentes en personajes virtuales. Se usa especialmente en:<br>
 
 * Cortometrajes narrativos.
 * Generación de clips emocionales de personajes.
 * Animación de ilustraciones o fotos antiguas.
 * Producción de efectos visuales, como explosiones o plantas creciendo.
-<sub>
-Accesible desde iLuoAI.video, facilita trabajos desde texto o imágenes hacia video, permitiéndote transformar ideas en escenas emocionantes y visualmente cautivantes.</sub>
 
-> ¿Cómo empezar con iLuo AI?
+<sub>
+Accesible desde HailuoAI.video, facilita trabajos desde texto o imágenes hacia video, permitiéndote transformar ideas en escenas emocionantes y visualmente cautivantes.</sub>
+
+> ¿Cómo empezar con Hailuo AI?
 
 ## ¿Cómo crear una imagen base eficaz?
 
-Tu proyecto comienza seleccionando AI Create, y luego Create Image en el menú de iLuo. Un buen prompt describe claramente la escena inicial. Por ejemplo:<br>
+Tu proyecto comienza seleccionando AI Create, y luego Create Image en el menú de Hailuo. Un buen prompt describe claramente la escena inicial. Por ejemplo:<br>
 
 Un P.O.V. de alta velocidad corre a través de una ciudad futurística de Warthorne, viajando a través de torres y bosques colapsantes, dentro una suite de cajas colosal con magma naranja, armadura negra de core, iluminación cinemática y explosiones de caos.<br>
 
+Puedes crear prompts desde DeepSeek, este los genera de acuerdo a tus pretenciones y los deja listos en ingles para el uso correcto en Hailuo<br>
+
 Es importante elegir una imagen que represente fielmente la visión creativa original.<br>
+
+Estas imagenes las puedes crear en Sora, desde ChatGPT en la solapa izquierda verás a Sora, podes crear un prompt que defina la imagen que tienes en mente, y Sora la creará para ti. Mayormente genera 4 modelos para que elijas la que mejor se adapte a tus ideas.<br>
+
+Hailuo es una IA paga, tiene creaditos que puedes utilizar para tus primeras ideas, después de que se termine la prueba deberás acceder a la compra del servicio.<br>
 
 ## ¿Qué es el Director Mode para crear videos?
 
@@ -219,7 +226,7 @@ Sube una imagen del personaje al modo Image to Video y escribe un prompt especí
 
 Make this character look terrified, eyes wide open, mouth trembling, subtle head movement.<br>
 
-Para emociones más tranquilas o suaves, utiliza:
+Para emociones más tranquilas o suaves, utiliza:<br>
 
 <sub>Make him look nostalgic, blinking slowly, faint smile, soft lighting.</sub>
 
@@ -266,7 +273,7 @@ Usa comandos específicos. Algunos ejemplos prácticos:<br>
 
 ## ¿De qué manera extender la duración de tus videos?
 
-Para crear videos más largos, exporta el último frame del video finalizado en software como CapCut o Premiere. Luego usa este frame como base en iLuo AI, creando así extensiones naturales y visuales continuas.<br>
+Para crear videos más largos, exporta el último frame del video finalizado en software como CapCut o Premiere. Luego usa este frame como base en Hailuo AI, creando así extensiones naturales y visuales continuas.<br>
 
 ### Enlaces con más información
 
